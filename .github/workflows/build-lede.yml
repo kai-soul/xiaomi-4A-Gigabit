@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede
+  REPO_URL: https://github.com/kai-soul/lede
   REPO_BRANCH: master
   FEEDS_CONF: 4Ag.conf.default
   CONFIG_FILE: Mi4A.config
